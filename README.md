@@ -30,4 +30,4 @@ The conversion process involves converting each pixel of the image into an ASCII
 - .NET Core 3.1 or higher.
 
 > [!NOTE]
->  The program executable is available now.
+>  You can download the executable of this project in the [Releases](../../releases) section.
